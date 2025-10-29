@@ -1,0 +1,6 @@
+requests==2.32.3
+python-dotenv==1.0.1
+pytz==2024.1
+pydantic==2.9.2
+websocket-client==1.8.0
+sqlite-utils==3.36
